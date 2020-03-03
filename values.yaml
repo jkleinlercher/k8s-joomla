@@ -146,9 +146,9 @@ livenessProbe:
   successThreshold: 1
 readinessProbe:
   enabled: true
-  initialDelaySeconds: 30
+  initialDelaySeconds: 60
   periodSeconds: 10
-  timeoutSeconds: 5
+  timeoutSeconds: 50
   failureThreshold: 6
   successThreshold: 1
 
