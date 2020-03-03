@@ -44,7 +44,7 @@ joomlaUsername: admin
 ## Defaults to a random 10-character alphanumeric string if not set
 ## ref: https://github.com/bitnami/bitnami-docker-joomla#environment-variables
 ##
-joomlaPassword: password
+joomlaPassword: password123
 
 ## Admin email
 ## ref: https://github.com/bitnami/bitnami-docker-joomla#environment-variables
